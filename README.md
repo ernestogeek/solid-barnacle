@@ -18,10 +18,7 @@
 &nbsp;
 [![Depfu Dependencies](https://badges.depfu.com/badges/6c4074c4d23ad57ee2bfd9ff90456090/overview.svg)](https://depfu.com/github/nktnet1/slync?project_id=39032)
 &nbsp;
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnktnet1%2Fslync.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnktnet1%2Fslync?ref=badge_shield&issueType=license)
-&nbsp;
-[![NPM License](https://img.shields.io/npm/l/slync)](https://opensource.org/license/mit/)
-&nbsp;
+
 [![GitHub issues](https://img.shields.io/github/issues/nktnet1/slync.svg?style=social)](https://github.com/nktnet1/slync/issues)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nktnet1_slync&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nktnet1_slync)
