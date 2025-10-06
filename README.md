@@ -57,9 +57,8 @@ modelled after [atomic-sleep](https://github.com/davidmarkclements/atomic-sleep)
 
 - [1. Installation](#1-installation)
 - [2. Usage](#2-usage)
-- [3. License](#3-license)
-- [4. Limitations](#4-limitations)
-- [5. Caveats](#5-caveats)
+- [3. Limitations](#3-limitations)
+- [4. Caveats](#4-caveats)
 
 ## 1. Installation
 
