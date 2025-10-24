@@ -1,4 +1,5 @@
-# 💤 slync  
+# 💤 solid-barnacle
+
 ### 0️⃣ Dependencies • 🌀 Event-loop Blocking • 🕒 Synchronous Sleep
 
 ---
