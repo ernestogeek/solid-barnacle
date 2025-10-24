@@ -5,13 +5,6 @@
 
 sleep + sync = slync
 
-modelled after [atomic-sleep](https://github.com/davidmarkclements/atomic-sleep)
-
-[![Try with Replit](https://replit.com/badge?caption=Try%20with%20Replit)](https://replit.com/@nktnet1/slync-example#index.js)
-
-</div>
-
-
 ## 1. Installation
 
 ```
